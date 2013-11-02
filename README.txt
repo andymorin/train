@@ -1,0 +1,1 @@
+This is a basic training project for .Net Snippets
